@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "lrn_val_invst"
+  site-url: "https://pankaj-kvhld.github.io/lrn_val_invst"
+  description: "To learn how to reach annual reports."
+  repo-branch: master
+  repo-url: "https://github.com/pankaj-kvhld/lrn_val_invst"
